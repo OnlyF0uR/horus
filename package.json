@@ -1,0 +1,23 @@
+{
+    "name": "horus",
+    "displayName": "Horus",
+    "description": "Dark theme for visual studio",
+    "publisher": "OnlyF0uR",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "icon": "media/icon-logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Horus - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Horus - Dark-color-theme.json"
+            }
+        ]
+    }
+}
