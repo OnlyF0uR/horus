@@ -1,34 +1,39 @@
 {
-	"name": "horus",
-	"displayName": "Horus",
-	"description": "Dark theme for Visual Studio Code",
-	"publisher": "OnlyF0uR",
-	"version": "1.0.0",
-	"engines": {
-		"vscode": "^1.68.0"
-	},
-	"icon": "media/icon-logo.png",
-	"categories": [
-		"Themes"
-	],
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/OnlyF0uR/horus.git"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Horus - Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Horus - Dark-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "b8b97fb7-7149-4b5f-b4a1-c953856654cd",
-		"publisherDisplayName": "OnlyF0uR",
-		"publisherId": "fa04de24-62a6-4a39-963c-de2bcf0d1686",
-		"isPreReleaseVersion": false
-	}
+  "name": "horus",
+  "displayName": "Horus",
+  "description": "Dark themes for Visual Studio Code",
+  "publisher": "OnlyF0uR",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "icon": "media/icon-logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnlyF0uR/horus.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Horus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Horus-color-theme.json"
+      },
+      {
+        "label": "HorusV2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HorusV2-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "b8b97fb7-7149-4b5f-b4a1-c953856654cd",
+    "publisherDisplayName": "OnlyF0uR",
+    "publisherId": "fa04de24-62a6-4a39-963c-de2bcf0d1686",
+    "isPreReleaseVersion": false
+  }
 }

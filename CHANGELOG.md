@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "horus" extension will be documented in this file.
+## [1.1.0] - 2024-02-10
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Addition new dark theme
 
-## [Unreleased]
+## [1.0.0] - 2022-03-07
 
 - Initial release
